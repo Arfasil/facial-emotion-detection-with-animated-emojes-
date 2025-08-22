@@ -1,6 +1,5 @@
-
-
-flask
+Flask
 opencv-python
 deepface
 numpy
+tensorflow
