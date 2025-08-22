@@ -29,8 +29,8 @@ facial-emotion-detection-with-animated-emojes-/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/emotion-detection-app.git
-   cd emotion-detection-app
+   [git clone https://github.com/your-username/emotion-detection-app.git](https://github.com/Arfasil/facial-emotion-detection-with-animinated-emojes-.git)
+   cd facial-emotion-detection-with-animinated-emojes-
 2.Create a virtual environment (recommended)
   python -m venv venv
   source venv/bin/activate    # On Mac/Linux
